@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 7833935a3cd0d1a43a075c3c2bb2f4c9
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: JakeBod:ARIEL
+    100002: JakeBod:C7
+    100004: JakeBod:CLAV
+    100006: JakeBod:Head
+    100008: JakeBod:Head_End
+    100010: JakeBod:Hips
+    100012: JakeBod:JakeBod
+    100014: JakeBod:L_Thumb_End
+    100016: JakeBod:L_Toe_End
+    100018: JakeBod:L_Wrist_End
+    100020: JakeBod:LANK
+    100022: JakeBod:LBHD
+    100024: JakeBod:LBSH
+    100026: JakeBod:LBWT
+    100028: JakeBod:LeftArm
+    100030: JakeBod:LeftFoot
+    100032: JakeBod:LeftForeArm
+    100034: JakeBod:LeftHand
+    100036: JakeBod:LeftHandThumb
+    100038: JakeBod:LeftLeg
+    100040: JakeBod:LeftShoulder
+    100042: JakeBod:LeftToeBase
+    100044: JakeBod:LeftUpLeg
+    100046: JakeBod:LELB
+    100048: JakeBod:LFHD
+    100050: JakeBod:LFSH
+    100052: JakeBod:LFWT
+    100054: JakeBod:LHEL
+    100056: JakeBod:LHIP
+    100058: JakeBod:LIEL
+    100060: JakeBod:LIHAND
+    100062: JakeBod:LIWR
+    100064: JakeBod:LKNE
+    100066: JakeBod:LKNI
+    100068: JakeBod:LMT1
+    100070: JakeBod:LMT5
+    100072: JakeBod:LMWT
+    100074: JakeBod:LOHAND
+    100076: JakeBod:LOWR
+    100078: JakeBod:LSHN
+    100080: JakeBod:LTOE
+    100082: JakeBod:LUPA
+    100084: JakeBod:LWRE
+    100086: JakeBod:Neck
+    100088: JakeBod:R_Thumb_End
+    100090: JakeBod:R_Toe_End
+    100092: JakeBod:R_Wrist_End
+    100094: JakeBod:RANK
+    100096: JakeBod:RBHD
+    100098: JakeBod:RBSH
+    100100: JakeBod:RBWT
+    100102: JakeBod:RELB
+    100104: JakeBod:RFHD
+    100106: JakeBod:RFSH
+    100108: JakeBod:RFWT
+    100110: JakeBod:RHEL
+    100112: JakeBod:RHIP
+    100114: JakeBod:RIEL
+    100116: JakeBod:RightArm
+    100118: JakeBod:RightFoot
+    100120: JakeBod:RightForeArm
+    100122: JakeBod:RightHand
+    100124: JakeBod:RightHandThumb
+    100126: JakeBod:RightLeg
+    100128: JakeBod:RightShoulder
+    100130: JakeBod:RightToeBase
+    100132: JakeBod:RightUpLeg
+    100134: JakeBod:RIHAND
+    100136: JakeBod:RIWR
+    100138: JakeBod:RKNE
+    100140: JakeBod:RKNI
+    100142: JakeBod:RMT1
+    100144: JakeBod:RMT5
+    100146: JakeBod:RMWT
+    100148: JakeBod:ROHAND
+    100150: JakeBod:ROWR
+    100152: JakeBod:RSHN
+    100154: JakeBod:RTOE
+    100156: JakeBod:RUPA
+    100158: JakeBod:RWRE
+    100160: JakeBod:Spine
+    100162: JakeBod:Spine1
+    100164: JakeBod:STRN
+    100166: JakeBod:T10
+    100168: MX40_1735
+    100170: MX40_1736
+    100172: MX40_1737
+    100174: MX40_1739
+    100176: MX40_1746
+    100178: MX40_1752
+    100180: MX40_1755
+    100182: MX40_1763
+    100184: MX40_1773
+    100186: MX40_1775
+    100188: MX40_1778
+    100190: MX40_1780
+    100192: //RootNode
+    100194: System
+    100196: Unlabeled_Markers
+    400000: JakeBod:ARIEL
+    400002: JakeBod:C7
+    400004: JakeBod:CLAV
+    400006: JakeBod:Head
+    400008: JakeBod:Head_End
+    400010: JakeBod:Hips
+    400012: JakeBod:JakeBod
+    400014: JakeBod:L_Thumb_End
+    400016: JakeBod:L_Toe_End
+    400018: JakeBod:L_Wrist_End
+    400020: JakeBod:LANK
+    400022: JakeBod:LBHD
+    400024: JakeBod:LBSH
+    400026: JakeBod:LBWT
+    400028: JakeBod:LeftArm
+    400030: JakeBod:LeftFoot
+    400032: JakeBod:LeftForeArm
+    400034: JakeBod:LeftHand
+    400036: JakeBod:LeftHandThumb
+    400038: JakeBod:LeftLeg
+    400040: JakeBod:LeftShoulder
+    400042: JakeBod:LeftToeBase
+    400044: JakeBod:LeftUpLeg
+    400046: JakeBod:LELB
+    400048: JakeBod:LFHD
+    400050: JakeBod:LFSH
+    400052: JakeBod:LFWT
+    400054: JakeBod:LHEL
+    400056: JakeBod:LHIP
+    400058: JakeBod:LIEL
+    400060: JakeBod:LIHAND
+    400062: JakeBod:LIWR
+    400064: JakeBod:LKNE
+    400066: JakeBod:LKNI
+    400068: JakeBod:LMT1
+    400070: JakeBod:LMT5
+    400072: JakeBod:LMWT
+    400074: JakeBod:LOHAND
+    400076: JakeBod:LOWR
+    400078: JakeBod:LSHN
+    400080: JakeBod:LTOE
+    400082: JakeBod:LUPA
+    400084: JakeBod:LWRE
+    400086: JakeBod:Neck
+    400088: JakeBod:R_Thumb_End
+    400090: JakeBod:R_Toe_End
+    400092: JakeBod:R_Wrist_End
+    400094: JakeBod:RANK
+    400096: JakeBod:RBHD
+    400098: JakeBod:RBSH
+    400100: JakeBod:RBWT
+    400102: JakeBod:RELB
+    400104: JakeBod:RFHD
+    400106: JakeBod:RFSH
+    400108: JakeBod:RFWT
+    400110: JakeBod:RHEL
+    400112: JakeBod:RHIP
+    400114: JakeBod:RIEL
+    400116: JakeBod:RightArm
+    400118: JakeBod:RightFoot
+    400120: JakeBod:RightForeArm
+    400122: JakeBod:RightHand
+    400124: JakeBod:RightHandThumb
+    400126: JakeBod:RightLeg
+    400128: JakeBod:RightShoulder
+    400130: JakeBod:RightToeBase
+    400132: JakeBod:RightUpLeg
+    400134: JakeBod:RIHAND
+    400136: JakeBod:RIWR
+    400138: JakeBod:RKNE
+    400140: JakeBod:RKNI
+    400142: JakeBod:RMT1
+    400144: JakeBod:RMT5
+    400146: JakeBod:RMWT
+    400148: JakeBod:ROHAND
+    400150: JakeBod:ROWR
+    400152: JakeBod:RSHN
+    400154: JakeBod:RTOE
+    400156: JakeBod:RUPA
+    400158: JakeBod:RWRE
+    400160: JakeBod:Spine
+    400162: JakeBod:Spine1
+    400164: JakeBod:STRN
+    400166: JakeBod:T10
+    400168: MX40_1735
+    400170: MX40_1736
+    400172: MX40_1737
+    400174: MX40_1739
+    400176: MX40_1746
+    400178: MX40_1752
+    400180: MX40_1755
+    400182: MX40_1763
+    400184: MX40_1773
+    400186: MX40_1775
+    400188: MX40_1778
+    400190: MX40_1780
+    400192: //RootNode
+    400194: System
+    400196: Unlabeled_Markers
+    7400000: shot_x2d
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: JakeBod:Hips
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.00080000336, y: 0, z: 0.00040000168}
+        length: 0.0010000045
+        modified: 1
+    - boneName: JakeBod:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.000004, y: -60.000004, z: -90}
+        max: {x: 60.000004, y: 60.000004, z: 50}
+        value: {x: 0.36362225, y: 0, z: 0.18181112}
+        length: 0.45452794
+        modified: 1
+    - boneName: JakeBod:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.000004, y: -60.000004, z: -90}
+        max: {x: 60.000004, y: 60.000004, z: 50}
+        value: {x: 0.36362225, y: 0, z: 0.18181112}
+        length: 0.45452794
+        modified: 1
+    - boneName: JakeBod:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.33390543, y: 0, z: 0.16695271}
+        length: 0.4173819
+        modified: 1
+    - boneName: JakeBod:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.33390555, y: 0, z: 0.16695277}
+        length: 0.4173821
+        modified: 1
+    - boneName: JakeBod:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.000002, z: -50}
+        max: {x: 0, y: 30.000002, z: 50}
+        value: {x: 0.021153228, y: 0, z: 0.010576614}
+        length: 0.026441544
+        modified: 1
+    - boneName: JakeBod:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.000002, z: -50}
+        max: {x: 0, y: 30.000002, z: 50}
+        value: {x: 0.025729625, y: 0, z: 0.012864812}
+        length: 0.03216204
+        modified: 1
+    - boneName: JakeBod:Spine
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.16083668, y: 0, z: 0.08041834}
+        length: 0.20104592
+        modified: 1
+    - boneName: JakeBod:Spine1
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.17773914, y: 0, z: 0.08886957}
+        length: 0.222174
+        modified: 1
+    - boneName: JakeBod:Neck
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.095027104, y: 0, z: 0.047513552}
+        length: 0.11878391
+        modified: 1
+    - boneName: JakeBod:Head
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.095027104, y: 0, z: 0.047513552}
+        length: 0.11878391
+        modified: 1
+    - boneName: JakeBod:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.000002}
+        value: {x: 0.15612233, y: 0, z: 0.07806116}
+        length: 0.19515298
+        modified: 1
+    - boneName: JakeBod:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.000002}
+        value: {x: 0.15612231, y: 0, z: 0.078061156}
+        length: 0.19515297
+        modified: 1
+    - boneName: JakeBod:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.000004}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0.22180794, y: 0, z: 0.11090397}
+        length: 0.27726
+        modified: 1
+    - boneName: JakeBod:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.000004}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0.22180794, y: 0, z: 0.11090397}
+        length: 0.27726
+        modified: 1
+    - boneName: JakeBod:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.2197375, y: 0, z: 0.10986875}
+        length: 0.27467194
+        modified: 1
+    - boneName: JakeBod:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.21973751, y: 0, z: 0.10986876}
+        length: 0.27467197
+        modified: 1
+    - boneName: JakeBod:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0.10986875, y: 0, z: 0.054934375}
+        length: 0.13733597
+        modified: 1
+    - boneName: JakeBod:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0.10986876, y: 0, z: 0.05493438}
+        length: 0.13733599
+        modified: 1
+    - boneName: JakeBod:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0.06139118, y: 0, z: 0.03069559}
+        length: 0.07673899
+        modified: 1
+    - boneName: JakeBod:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0.06139118, y: 0, z: 0.03069559}
+        length: 0.07673899
+        modified: 1
+    skeleton:
+    - name: shot_00
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:JakeBod
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:Hips
+      parentName: 
+      position: {x: 0, y: 0.8895213, z: -0.13990863}
+      rotation: {x: -0.058359187, y: -0.06115889, z: -0.00047996014, w: 0.9964203}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:LeftUpLeg
+      parentName: 
+      position: {x: -0.108043, y: 0, z: 0}
+      rotation: {x: 0.033690114, y: -0.05741735, z: -0.07744252, w: 0.9947717}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:LeftLeg
+      parentName: 
+      position: {x: -0, y: -0.454528, z: 0}
+      rotation: {x: 0.050677024, y: 1.125256e-17, z: -5.62628e-18, w: 0.99871504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:LeftFoot
+      parentName: 
+      position: {x: -0, y: -0.417382, z: 0}
+      rotation: {x: 0.028399628, y: -0.059676256, z: -0.014664714, w: 0.99770594}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:LeftToeBase
+      parentName: 
+      position: {x: -0, y: 0, z: 0.153478}
+      rotation: {x: 0.035580285, y: 2.5946216e-17, z: -2.928597e-17, w: 0.99936676}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:L_Toe_End
+      parentName: 
+      position: {x: -0, y: 0, z: 0.074999996}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:RightUpLeg
+      parentName: 
+      position: {x: 0.108043, y: 0, z: 0}
+      rotation: {x: 0.032680117, y: 0.16051401, z: 0.08128449, w: 0.98313785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:RightLeg
+      parentName: 
+      position: {x: -0, y: -0.454528, z: 0}
+      rotation: {x: 0.10839871, y: 2.4069351e-17, z: -1.20346755e-17, w: 0.9941074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:RightFoot
+      parentName: 
+      position: {x: -0, y: -0.417382, z: 0}
+      rotation: {x: 0.027561689, y: 0.018822279, z: -0.21570927, w: 0.975887}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:RightToeBase
+      parentName: 
+      position: {x: -0, y: 0, z: 0.153478}
+      rotation: {x: 0.054244082, y: 2.9722297e-17, z: -3.1849077e-17, w: 0.99852765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:R_Toe_End
+      parentName: 
+      position: {x: -0, y: 0, z: 0.074999996}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:Spine
+      parentName: 
+      position: {x: -0, y: 0.001, z: 0}
+      rotation: {x: 0.122616336, y: 0.013636983, z: -0.0016595848, w: 0.992359}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:Spine1
+      parentName: 
+      position: {x: -0, y: 0.201046, z: 0}
+      rotation: {x: -0.07002236, y: 0.021808522, z: -0.011183814, w: 0.9972443}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:LeftShoulder
+      parentName: 
+      position: {x: -0, y: 0.22217399, z: 0}
+      rotation: {x: 0.06561862, y: -0.21352215, z: 0.58736557, w: 0.7778843}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:LeftArm
+      parentName: 
+      position: {x: -0, y: 0.195153, z: 0}
+      rotation: {x: 0.093483, y: 0.22149959, z: 0.1796671, w: 0.9538965}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:LeftForeArm
+      parentName: 
+      position: {x: -0, y: 0.27726, z: 0}
+      rotation: {x: 0.02173982, y: 0.0011527477, z: -0.01911309, w: 0.9995802}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:LeftHand
+      parentName: 
+      position: {x: -0, y: 0.274672, z: 0}
+      rotation: {x: 0.16044803, y: 0.19843642, z: -0.045694914, w: 0.96581125}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:L_Wrist_End
+      parentName: 
+      position: {x: -0, y: 0.099999994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:LeftHandThumb
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:L_Thumb_End
+      parentName: 
+      position: {x: -0, y: 0, z: 0.099999994}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:Neck
+      parentName: 
+      position: {x: -0, y: 0.22217399, z: 0}
+      rotation: {x: 0.03088017, y: 0.10877438, z: -0.0047845766, w: 0.99357516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:Head
+      parentName: 
+      position: {x: -0, y: 0.118783996, z: 0}
+      rotation: {x: -0.061271198, y: -0.16046304, z: 0.016615527, w: 0.9849981}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:Head_End
+      parentName: 
+      position: {x: -0, y: 0.114999995, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:RightShoulder
+      parentName: 
+      position: {x: -0, y: 0.22217399, z: 0}
+      rotation: {x: 0.061397344, y: 0.12750667, z: -0.58215815, w: 0.8006649}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:RightArm
+      parentName: 
+      position: {x: -0, y: 0.195153, z: 0}
+      rotation: {x: 0.059403595, y: -0.22864835, z: -0.18851885, w: 0.9532323}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:RightForeArm
+      parentName: 
+      position: {x: -0, y: 0.27726, z: 0}
+      rotation: {x: 0.043612335, y: -0.005871585, z: 0.029254695, w: 0.9986027}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:RightHand
+      parentName: 
+      position: {x: -0, y: 0.274672, z: 0}
+      rotation: {x: -0.0039186925, y: 0.08744396, z: -0.005708882, w: 0.9961453}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:R_Wrist_End
+      parentName: 
+      position: {x: -0, y: 0.137, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:RightHandThumb
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JakeBod:R_Thumb_End
+      parentName: 
+      position: {x: -0, y: 0, z: 0.099999994}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

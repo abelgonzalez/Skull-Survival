@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f36839bb9d48b4d41a3d6dd65f0c3a19
+timeCreated: 1498226117
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Caribbean
+  fontNames:
+  - Caribbean
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
