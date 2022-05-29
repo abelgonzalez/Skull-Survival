@@ -61,17 +61,17 @@
  - [Unity 2018.1.0f2 Personal (64 bits)](https://unity3d.com/pt/unity/whats-new/unity-2018.1.0)
  - [Kinect for Windows Software Development Kit (SDK) 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
 
- - 2- Open the project with Unity and load it from folder **Codigo Fonte**
+  - Open the project with Unity and load it from folder **Codigo Fonte**
 
 **Just play it**
-* - With Kinect:
+* With Kinect:
 
-- 1- Download and install [Kinect for Windows Software Development Kit (SDK) 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
+ * - Download and install [Kinect for Windows Software Development Kit (SDK) 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
 
-- 2- Open **Build** folder and execute "Skull Survival.exe"
+ * - Open **Build** folder and execute "Skull Survival.exe"
 
-* - Without Kinect: 
-- 1- Open **Build** folder and execute "Skull Survival.exe"
+* Without Kinect: 
+ - Open **Build** folder and execute "Skull Survival.exe"
 
 ---
 ### 👉 Additional information
