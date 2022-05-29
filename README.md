@@ -37,6 +37,7 @@
 - [x] Walk (L,R)
 - [x] Jump
 - [x] Shoot enemy
+
 **Enemy**
 - [x] Walk
 - [x] Kill player
@@ -44,8 +45,8 @@
 
 ### 🔧 Technologies
 
-- [C#](https://www.w3schools.com/cs/index.php) 💚
-- [Unity](https://unity.com/)
+- [C#](https://www.w3schools.com/cs/index.php) 
+- [Unity](https://unity.com/) 💚
 - [Microsoft Kinect](http://www.kinect.com/)
 
 ### 👨‍💻 How to Setup
@@ -62,20 +63,21 @@
 ### 😎 How to Play
 
 **Using Unity**
-Pre-requisites:
-* 1- Download and install:
+* Pre-requisites:
+1- Download and install:
 - [Unity 2018.1.0f2 Personal (64 bits)](https://unity3d.com/pt/unity/whats-new/unity-2018.1.0)
 - [Kinect for Windows Software Development Kit (SDK) 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
 
-* 2- Open the project with Unity and load it from folder **Codigo Fonte**
+2- Open the project with Unity and load it from folder **Codigo Fonte**
 
 **Just play it**
 * - With Kinect:
-Download and install [Kinect for Windows Software Development Kit (SDK) 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
-- Open **Build** folder and execute "Skull Survival.exe"
+1- Download and install [Kinect for Windows Software Development Kit (SDK) 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
+
+2- Open **Build** folder and execute "Skull Survival.exe"
 
 * - Without Kinect: 
-- Open **Build** folder and execute "Skull Survival.exe"
+1- Open **Build** folder and execute "Skull Survival.exe"
 
 ### 👉 Demo
 * Demo with Kinect https://youtu.be/oy5ZzX8Q-h4
@@ -90,4 +92,6 @@ This project is under the MIT license. See the file <a href="https://github.com/
 ### 🧑‍💻 Autor
 <p align="center">Done with 💙 by Abel González Mondéjar</p>
 
+<p align="center">
 [![LinkedIn Badge](https://img.shields.io/badge/-Abel_González_Mondéjar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelgonzalezmondejar/)](https://www.linkedin.com/in/abelgonzalezmondejar/)
+</p>
