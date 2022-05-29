@@ -5,17 +5,6 @@
   <p>Skull Survival 💀</p>
 </h1>
 
-<p align="center">
- <a href="#about">About</a> •
- <a href="#main-features">Main features</a> •
- <a href="#technologies">Technologies</a> •
- <a href="#how-to-setup"> How to Setup</a> •
- <a href="#how-to-play">How to Play</a> •
- <a href="#demo">Demo</a> •
- <a href="#license">License</a> •
- <a href="#author">Author</a>
-</p>
-
 ---
 
 <br>
@@ -26,11 +15,11 @@
   />
 </h1>
 
-
-### About
-
+---
+### 🧾 About
 **Skull Survival** is a game where I learned a lot. This project was a part of a final class project in which I used Microsoft Kinect and how to integrate it into a game environment. Also, I have created all Brief Game outline, the Software Engineer process, and the AI behind the game players.
 
+---
 ### 🧾 Main features
 **Player**
 - [x] Start game
@@ -43,12 +32,14 @@
 - [x] Kill player
 - [x] Die
 
+---
 ### 🔧 Technologies
 
 - [C#](https://www.w3schools.com/cs/index.php) 
 - [Unity](https://unity.com/) 💚
 - [Microsoft Kinect](http://www.kinect.com/)
 
+---
 ### 👨‍💻 How to Setup
 
 ```bash
@@ -60,6 +51,7 @@
   $ cd Skull-Survival
 ```
 
+---
 ### 😎 How to Play
 
 **Using Unity**
@@ -79,11 +71,12 @@
 * - Without Kinect: 
 1- Open **Build** folder and execute "Skull Survival.exe"
 
+---
 ### 👉 Demo
 * Demo with Kinect https://youtu.be/oy5ZzX8Q-h4
 * Demo without Kinect https://youtu.be/g1KMN11Wa1o
 
-
+---
 ### 📝 License
 
 This project is under the MIT license. See the file <a href="https://github.com/abelgonzalez/Skull-Survival/LICENSE">LICENCE</a> for more details.
