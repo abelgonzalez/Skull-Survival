@@ -20,7 +20,7 @@
 **Skull Survival** is a game where I learned a lot. This project was a part of a final class project in which I used Microsoft Kinect and how to integrate it into a game environment. Also, I have created all Brief Game outline, the Software Engineer process, and the AI behind the game players.
 
 ---
-## 🧾 Main features
+## ✅ Main features
 **Player**
 - [x] Start game
 - [x] Walk (L,R)
@@ -76,7 +76,7 @@ Download and install:
 ## 👉 Additional information
 * Demo using Kinect https://youtu.be/oy5ZzX8Q-h4
 * Demo without Kinect https://youtu.be/g1KMN11Wa1o
-* Brief Game outline and User Manual is avaliable in [Doc](https://github.com/abelgonzalez/Skull-Survival/Doc) folder (in portuguese).
+* Brief Game outline and User Manual is avaliable in [Doc](https://github.com/abelgonzalez/Skull-Survival/tree/main/Doc) folder (in portuguese).
 * In case of sensitive bugs like security vulnerabilities, don't hesitate to get in touch with abelgodev@gmail.com directly instead of using issue tracker. I value your effort to improve the security and privacy of this project!
 
 ---
