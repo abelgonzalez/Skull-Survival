@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://github.com/abelgonzalez/Skull-Survival/tree/main/Doc/executing game.jpg"
+    src="https://github.com/abelgonzalez/Skull-Survival/tree/main/Doc/game.jpg"
   />
   <p>Skull Survival 💀</p>
 </h1>
