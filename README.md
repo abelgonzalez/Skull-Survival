@@ -5,13 +5,13 @@
   <p>Skull Survival 💀</p>
 </h1>
 
-<!--
+
 <h1>
   <img 
-    src="https://ik.imagekit.io/dwei78ukbe/nasaGIF_kz_H03oo4.gif"
+    src="https://github.com/abelgonzalez/Skull-Survival/tree/main/Doc/demo.gif"
   />
 </h1>
--->
+
 
 ## 🧾 About
 
