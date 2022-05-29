@@ -11,8 +11,8 @@
  <a href="#technologies">Technologies</a> •
  <a href="#how-to-setup"> How to Setup</a> •
  <a href="#how-to-play">How to Play</a> •
- <a href="#demo">Demo</a>
- <a href="#license">License</a>
+ <a href="#demo">Demo</a> •
+ <a href="#license">License</a> •
  <a href="#author">Author</a>
 </p>
 
@@ -27,7 +27,7 @@
 </h1>
 
 
-### 🧾 About
+### About
 
 **Skull Survival** is a game where I learned a lot. This project was a part of a final class project in which I used Microsoft Kinect and how to integrate it into a game environment. Also, I have created all Brief Game outline, the Software Engineer process, and the AI behind the game players.
 
@@ -92,6 +92,5 @@ This project is under the MIT license. See the file <a href="https://github.com/
 ### 🧑‍💻 Autor
 <p align="center">Done with 💙 by Abel González Mondéjar</p>
 
-<p align="center">
+
 [![LinkedIn Badge](https://img.shields.io/badge/-Abel_González_Mondéjar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelgonzalezmondejar/)](https://www.linkedin.com/in/abelgonzalezmondejar/)
-</p>
