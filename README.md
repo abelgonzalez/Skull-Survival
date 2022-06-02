@@ -22,14 +22,14 @@
 ---
 ## 📷 Screenshots
 **Game beginning**
-<h1>
+<h1 align="center">
   <img 
     src="./Doc/home.png"
   />
 </h1>
 
 **Enemies**
-<h1>
+<h1 align="center">
   <img 
     src="./Doc/enemy1.jpg"
   />
@@ -42,7 +42,7 @@
 </h1>
 
 **Enemy finite-state machine (FSM)**
-<h1>
+<h1 align="center">
   <img 
     src="./Doc/mefEnemy.png"
   />
@@ -56,7 +56,7 @@
 </h1>
 
 **Terrain Nav Mesh**
-<h1>
+<h1 align="center">
   <img 
     src="./Doc/navMeshTerrain.png"
   />
