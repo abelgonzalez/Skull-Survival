@@ -1,8 +1,8 @@
 <h1 align="center">
+  <p>Skull Survival 💀</p>
   <img 
     src="./Doc/game.jpg"
-  />
-  <p>Skull Survival 💀</p>
+  />  
 </h1>
 
 ---
@@ -18,6 +18,56 @@
 ---
 ## 🧾 About
 **Skull Survival** is a game where I learned a lot. This project was a part of a final class project in which I used Microsoft Kinect and how to integrate it into a game environment. Also, I have created all Brief Game outline, the Software Engineer process, and the AI behind the game players.
+
+---
+## 📷 Screenshots
+**Game beginning**
+<h1>
+  <img 
+    src="./Doc/home.png"
+  />
+</h1>
+
+**Enemies**
+<h1>
+  <img 
+    src="./Doc/enemy1.jpg"
+  />
+  <img 
+    src="./Doc/enemy2.jpg"
+  />
+  <img 
+    src="./Doc/enemy3.jpg"
+  />
+</h1>
+
+**Enemy finite-state machine (FSM)**
+<h1>
+  <img 
+    src="./Doc/mefEnemy.png"
+  />
+</h1>
+
+**Class diagram**
+<h1>
+  <img 
+    src="./Doc/classDiagram.jpg"
+  />
+</h1>
+
+**Terrain Nav Mesh**
+<h1>
+  <img 
+    src="./Doc/navMeshTerrain.png"
+  />
+</h1>
+
+
+---
+## 🕖 Versioning
+- Skull Survival v2.0 (relased in 13/07/2018)
+- Skull Survival v1.5 (relased in 07/04/2018)
+- Skull Survival v1.0 (relased in 29/06/2017)
 
 ---
 ## ✅ Main features
@@ -76,8 +126,8 @@ Download and install:
 ## 👉 Additional information
 * Demo using Kinect https://youtu.be/oy5ZzX8Q-h4
 * Demo without Kinect https://youtu.be/g1KMN11Wa1o
-* Brief Game outline and User Manual is avaliable in [Doc](https://github.com/abelgonzalez/Skull-Survival/tree/main/Doc) folder (in portuguese).
-* In case of sensitive bugs like security vulnerabilities, don't hesitate to get in touch with abelgodev@gmail.com directly instead of using issue tracker. I value your effort to improve the security and privacy of this project!
+* Brief Game outline and User Manual is available in [Doc](https://github.com/abelgonzalez/Skull-Survival/tree/main/Doc) folder (in Portuguese).
+* In case of sensitive bugs like security vulnerabilities, don't hesitate to contact me at abelgodev@gmail.com instead of using the issue tracker. I value your effort to improve the security and privacy of this project!
 
 ---
 ## 📝 License
