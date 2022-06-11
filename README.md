@@ -62,7 +62,6 @@
   />
 </h1>
 
-
 ---
 ## 🕖 Versioning
 - Skull Survival v2.0 (relased in 13/07/2018)
