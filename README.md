@@ -11,7 +11,7 @@
 
 <h1>
   <img 
-    src="./Doc/demo.gif"
+    src="./doc/demo.gif"
   />
 </h1>
 
@@ -24,41 +24,41 @@
 **Game beginning**
 <h1 align="center">
   <img 
-    src="./Doc/home.png"
+    src="./doc/home.png"
   />
 </h1>
 
 **Enemies**
 <h1 align="center">
   <img 
-    src="./Doc/enemy1.jpg"
+    src="./doc/enemy1.jpg"
   />
   <img 
-    src="./Doc/enemy2.jpg"
+    src="./doc/enemy2.jpg"
   />
   <img 
-    src="./Doc/enemy3.jpg"
+    src="./doc/enemy3.jpg"
   />
 </h1>
 
 **Enemy finite-state machine (FSM)**
 <h1 align="center">
   <img 
-    src="./Doc/mefEnemy.png"
+    src="./doc/mefEnemy.png"
   />
 </h1>
 
 **Class diagram**
 <h1>
   <img 
-    src="./Doc/classDiagram.jpg"
+    src="./doc/classDiagram.jpg"
   />
 </h1>
 
 **Terrain Nav Mesh**
 <h1 align="center">
   <img 
-    src="./Doc/navMeshTerrain.png"
+    src="./doc/navMeshTerrain.png"
   />
 </h1>
 
@@ -125,7 +125,7 @@ Download and install:
 ## 👉 Additional information
 * Demo using Kinect https://youtu.be/oy5ZzX8Q-h4
 * Demo without Kinect https://youtu.be/g1KMN11Wa1o
-* Brief Game outline and User Manual is available in [Doc](https://github.com/abelgonzalez/Skull-Survival/tree/main/Doc) folder (in Portuguese).
+* Brief Game outline and User Manual is available in [Doc](https://github.com/abelgonzalez/Skull-Survival/tree/main/doc) folder (in Portuguese).
 * In case of sensitive bugs like security vulnerabilities, don't hesitate to contact me at abelgodev@gmail.com instead of using the issue tracker. I value your effort to improve the security and privacy of this project!
 
 ---
