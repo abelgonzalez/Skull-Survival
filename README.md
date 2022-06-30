@@ -1,7 +1,7 @@
 <h1 align="center">
   <p>Skull Survival 💀</p>
   <img 
-    src="./Doc/game.jpg"
+    src="./doc/game.jpg"
   />  
 </h1>
 
